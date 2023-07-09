@@ -1,0 +1,9 @@
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\bin\Debug\Inventory.Business.Layer.dll
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\bin\Debug\Inventory.Business.Layer.pdb
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\obj\Debug\Inventory.Business.Layer.csproj.AssemblyReference.cache
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\obj\Debug\Inventory.Business.Layer.csproj.CoreCompileInputs.cache
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\obj\Debug\Inventory.Business.Layer.dll
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\obj\Debug\Inventory.Business.Layer.pdb
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\bin\Debug\Inventory.DataAccess.Layer.dll
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\bin\Debug\Inventory.DataAccess.Layer.pdb
+D:\Test\9-30AM Core\DesktopInventoryApp\Inventory.Business.Layer\obj\Debug\Inventory.Business.Layer.csproj.CopyComplete
